@@ -20,6 +20,10 @@ A dynamic web-based voting and appreciation system built for institutional place
 - Visionary Mind certificate
 - Professional print-ready brand guidelines
 
+## 🌐 Live Website
+
+Visit the live website: [https://aims-voting-site.netlify.app/]((https://aims-voting-site.netlify.app/))
+
 ## Project Structure
 
 ```
