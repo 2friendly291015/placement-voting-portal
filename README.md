@@ -1,5 +1,10 @@
 # Placement Voting Portal
 
+## 🌐 Live Website
+
+Visit the live website:  
+👉 https://aims-voting-site.netlify.app/
+
 A dynamic web-based voting and appreciation system built for institutional placement activities. This project enables students to vote for their peers and generate digital appreciation letters with custom certificate designs.
 
 ## Features
@@ -20,9 +25,7 @@ A dynamic web-based voting and appreciation system built for institutional place
 - Visionary Mind certificate
 - Professional print-ready brand guidelines
 
-## 🌐 Live Website
 
-Visit the live website: [https://aims-voting-site.netlify.app/]((https://aims-voting-site.netlify.app/))
 
 ## Project Structure
 
